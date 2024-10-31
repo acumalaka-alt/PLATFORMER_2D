@@ -3046,7 +3046,7 @@ MonoBehaviour:
   Projectile: {fileID: 3140784183944121787, guid: 676214394a3467e46afb88fcc57f054f, type: 3}
   projectileVelocity: {x: 10, y: 0}
   projectOffset: {x: 1, y: 0}
-  Cooldown: 1
+  Cooldown: 0.5
 --- !u!1 &757804781
 GameObject:
   m_ObjectHideFlags: 0
